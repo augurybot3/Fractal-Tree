@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #f7f7f7;
+}
+
+canvas {
+    border: 1px solid #333;
+}
+
+.slider {
+    width: 400px;
+}
