@@ -14,4 +14,4 @@ The following is the result:
 
 <br>
 
-<iframe src="https://augurybot3.github.io/Fractal-Tree/" width="800" height="600"></iframe>
+[*CLICK HERE FOR INTERACTIVE FRACTAL TREE DEMONSTARATION*](https://augurybot3.github.io/Fractal-Tree/)
